@@ -1,1 +1,1 @@
-# Kruskal-Algorithm
+# Kruskal's Algorithm Graph Visualization
